@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368/ghost",
+    "apiUrl": "https://wondrous-druid-e71ae4.netlify.app/ghost",
     "contentApiKey": "ac68370153333849eff6ff46d8"
   },
   "production": {
-    "apiUrl": "http://localhost:2368/ghost",
+    "apiUrl": "https://wondrous-druid-e71ae4.netlify.app/ghost",
     "contentApiKey": "f9374353e13677ff9a166165d3"
   }
 }
